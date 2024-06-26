@@ -1,0 +1,7 @@
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+
+.bgColor{
+    background: url(https://i.pinimg.com/736x/08/e9/25/08e9259eea4b53529fb675c2f71fc376.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
